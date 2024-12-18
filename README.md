@@ -213,7 +213,7 @@ _Same performance as Logistic Regression on training data._
   - Logistic Regression provides better classification performance on test data than KNN.
   - Overfitting is a concern, as both models perform perfectly on training data.
 
-**Recommendations**: (*based on our implementation*)
+## **Recommendations**: (*based on our implementation*)
 
 - For the numerical dataset, consider using Linear Regression for better generalization.
 - For the image dataset, Logistic Regression is preferred over KNN for its higher accuracy and robustness.
